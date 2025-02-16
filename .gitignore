@@ -1,6 +1,7 @@
 # .gitignore
 __pycache__/
 *.pyc
-.venv/
+env/
 dist/
 *.egg-info/
+.env
